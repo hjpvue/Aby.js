@@ -1,0 +1,308 @@
+.render(abyss){noise(fill-viewport),string,main(out),input="hello world", 'wheriam -no-force'}
+//hello world
+//default is to open terminal, else, browser, else CDN hosted link, errors to interactive CLI
+//equivalent to the above one liner in vanilla js is:
+import "aby.js" as abyss
+import "chant.js" as chant
+
+function hello
+ const string = "hello world"
+ export.hello as abyss(string);
+
+run hello
+//equivalent in abyss
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+//another .ajs example
+)};=>
+.rattle({URI or network path})=>.reap.here
+.colllect(raver)=>.still,all.siren
+.chant(humn)=>.hiss.monitor
+.chant(sing)=>.audience amble |--|,silent.here.chant(raver)=>.echo.siren
+.chant(sing)=>.audience amble |--|,silent.here.chant(raver)=>.echo.siren
+.chant(sing)=>.audience amble |--|,silent.here.chant(raver)=>.echo.siren
+.reap({})
+)};=>
+)};=>
+.rattle({URI or network path})=>.reap.here
+.colllect(raver)=>.still,all.siren
+.chant(humn)=>.hiss.monitor
+.chant(sing)=>.audience amble,|--|silent.here.chant("h")=>.echo.siren]-\---------+-\-]-\---------+==>-
+.chant(sing)=>.audience amble,|--|silent.here.chant("e")=>.echo.siren-]-\--------+--\-]-\--------+==>-
+.chant(sing)=>.audience amble,|--|silent.here.chant("l")=>.echo.siren\-]-\-------+---\-]-\-------+==>-
+.chant(sing)=>.audience amble,|--|silent.here.chant("o")=>.echo.siren-\-]-\------+----\-]-\------+==>-
+.chant(sing)=>.audience amble,|--|silent.here.chant(" ")=>.echo.siren--\-]-\-----+-----\-]-\-----+==>-
+.chant(sing)=>.audience amble,|--|silent.here.chant("w")=>.echo.siren---\-]-\----+------\-]-\----+==>-
+.chant(sing)=>.audience amble,|--|silent.here.chant("r")=>.echo.siren----\-]-\---+-------\-]-\---+==>-
+.chant(sing)=>.audience amble,|--|silent.here.chant("d")=>.echo.siren-----\-]-\--+--------\-]-\--+==>-
+.reap({})
+)};=>
+//prints out "heloworld" ==> cannot stream whitespace and cannot stream twice i.c.o "l" because of base language limits imposed to facilitate abstractions
+//the "|--|" delimiter is used to inform the compiler that this might form a code block, and there might be a juicy datagram waiting for it as a reward for parsing the entire code block, code integrity is maintained by having a public ledger available in every compililation instance which decrypts code blocks and logs transaction
+//order is determined by datagram
+//might print "heoeord" in case of failure in the "l" production pipeline
+//might print "helwrld" in case of failure in the "o" production pipeline
+//might cause ememory overflow error stack on whitespace outout with same probability as fatal error on duplicate sequential streams
+//if run indefinitely there exists a probability that each and every failure case will eventually be echoed out to console, as per the core language design.
+//will eventually print out "Hello World" as duplicates and whitespace is streamed on pauses of compilation. 
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(here
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>
+.chant(raver)=>.echo.siren
+.chant(raver)=>.echo,silent.here
+.reap(siren
+)};=>

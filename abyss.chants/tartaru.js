@@ -1,9 +1,13 @@
-========================================================================================================
----------------------------------------------------------------------------------aby.js-----------------------------------------------------------------------------------------------------------------------------------
+import 'abyss' from "aby.js"
 
-========================================================================================================
-methods
-	import rat from rattle.js as rattler() => unit tester, makes lists of objects via tree shakes and ranks them according to total number of methods + properties
+function rattler = {
+    var i = document.Get.DOM
+    var j = get.Eventlisterner
+    var k = to.array
+    var l = make readable stream
+    pipe ijkl
+}
+import rat from rattle.js as rattler() => unit tester, makes lists of objects via tree shakes and ranks them according to total number of methods + properties
 	taint = decorates/marks rat lists, inversely with timestamps, and proportionally to the rat rank = more attachments>more time. Total obj+elem=timeout.main()
 	reap = deconstructs tainted, rattled elements and replaces their binary footprints with 0/1 (1 is assumed to be more economically replaced with 0, rather than the inverse)
 

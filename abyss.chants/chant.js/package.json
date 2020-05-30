@@ -1,0 +1,35 @@
+{
+  "name": "chants",
+  "version": "0.0.2",
+  "description": "Front-end GUI renderer and utility engine for abyss",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjpvue/Chant.js.git"
+  },
+  "keywords": [
+    "chants",
+    "nodejs13x",
+    "smithy",
+    "malbolge",
+    "limbo",
+    "inferno",
+    "abyss",
+    "aby.js",
+    "chant.js",
+    "workflow",
+    "automation",
+    "AA's"
+  ],
+  "author": "HJP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjpvue/Chant.js/issues"
+  },
+  "homepage": "https://github.com/hjpvue/Chant.js#readme"
+}

@@ -1,0 +1,58 @@
+)};=>
+.rattle({URI or network path})=>.reap.here
+.colllect(raver)=>.still,all.siren
+.chant(humn)=>.hiss.monitor
+.chant(sing)=>.audience amble|--|silent.here.chant("h")=>.echo.siren]-\---------+-\-]-\---------+==>-
+.chant(sing)=>.audience amble|--|silent.here.chant("e")=>.echo.siren-]-\--------+--\-]-\--------+==>-
+.chant(sing)=>.audience amble|--|silent.here.chant("l")=>.echo.siren\-]-\-------+---\-]-\-------+==>-
+.chant(sing)=>.audience amble|--|silent.here.chant("o")=>.echo.siren-\-]-\------+----\-]-\------+==>-
+.chant(sing)=>.audience amble|--|silent.here.chant(" ")=>.echo.siren--\-]-\-----+-----\-]-\-----+==>-
+.chant(sing)=>.audience amble|--|silent.here.chant("w")=>.echo.siren---\-]-\----+------\-]-\----+==>-
+.chant(sing)=>.audience amble|--|silent.here.chant("r")=>.echo.siren----\-]-\---+-------\-]-\---+==>-
+.chant(sing)=>.audience amble|--|silent.here.chant("d")=>.echo.siren-----\-]-\--+--------\-]-\--+==>-
+.reap({})
+
+///update proposal
+{																											}
+  "function": "arguments"|--|"variables" :"variables"|--|"function": "arguments"|--|"variables" :"variables"
+  "function": "arguments"|--|"variables" :"variables"|--|"function": "arguments"|--|"variables" :"variables"
+  "function": "arguments"|--|"variables" :"variables"|--|"function": "arguments"|--|"variables" :"variables"
+  "function": "arguments"|--|"variables" :"variables"|--|"function": "arguments"|--|"variables" :"variables"
+  "function": "arguments"|--|"variables" :"variables"|--|"function": "arguments"|--|"variables" :"variables"
+  "function": "arguments"|--|"variables" :"variables"|--|"function": "arguments"|--|"variables" :"variables"
+  }																											{
+  "configurations": {|--|} :"meta"
+    "lefthand_function": "references"|--|"element", "element", "element"
+    "righthand_function": "IP address"|--|"element"
+    "general": "references"|--|"element", "element", "element"
+  }																											{
+  "constants": [
+    'a'/'b'/'c'/'d'/'e'/'f'/'g'/'h'/'i'/'j'/'k'/'l'/'m'/'n'/'o'/'p'/'q'/'r'/'s'/'t'/'u'/'v'/'w'/'x'/'y'/'z':
+    '0.1'/'0.2'/'0.3'/'0.4'/'0.5'/'0.6'/'0.7'/'0.8'/'0.9'/'0.10'/'0.11'/'0.12'/'0.13'/'0.14'/'0.15'/'0.16'/'0.17'/'0.18'/'0.19'/'0.20'/'0.21'/'0.22'/'0.23'/'0.24'/'0.25'/'0.26'
+  ],
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"
+  "pointer": "data"  
+}																											{
+
+//note we are are inflecting the following in the above; 2 application scripts, 3 configurations, 26 constants and 20 points of arbritary data, which all together forms an abysmal application.
+//scoping; by default the compiler is 'neutered' in that all application specific data is stored within the trailing list of the .ajs file. To change this a command has to be passed to the CLI or other config file in order to activate the DDMS mode.
+//one-to-many programattic logic:
