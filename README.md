@@ -1,4 +1,4 @@
-#####
+```
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
@@ -18,70 +18,70 @@
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
+```
 
 Please consider contributing and/or becoming a maintainer!
 
-#System Requirements 
+# System Requirements 
+##### Minimum              ##### Medium          ##### Ludacris 
 
-            #####Minimum              #####Medium          #####Ludacris 
+- Memory                   	2 GB              4 GB                       20 PB
 
-* Memory                   	2 GB              4 GB                       20 PB
+-Free Disk Space           	300 MB            1 TB                       2 ZB
 
-*Free Disk Space           	300 MB            1 TB                       2 ZB
-
-*Internet Bandwidth 	         1 Mbps            100 Mbps                   _N/A_
+-Internet Bandwidth 	         1 Mbps            100 Mbps                   _N/A_
 
 
-#Installation
+# Installation
 
-##Git
+## Git
 
 ```
 git clone here
 ```
 
-##Bower
+## Bower
 
 ```
 bower install 
 ```
 
-##npm
+## npm
 
 ```
 npm -g -i -dev --save --force abyss -y
 ```
 
-##yarn
+## yarn
 
 ``` 
 yarn install abyss 
 ```
 
 
-##Gulp
+## Gulp
 
 ```
 Gulp abyss.gulpfile 
 ```
 
-##Ubuntu
+## Ubuntu
 
 ```
 apt-get install abyss
 ```
 
-##RedHat
+## RedHat
 
-##No-Arch
+## No-Arch
 
-#Desktop Downloads
+# Desktop Downloads
 
-##Windows
+## Windows
 
-##Macintosh
+## Macintosh
 
-######KaiOS SPecific instructions
+###### KaiOS SPecific instructions
 
 ***Aby.js***, pronounced as _"abyss"_, is a language specification and a data streaming engine that provides automatic type checking, object orientation, concurrency, 
 
