@@ -31,19 +31,31 @@ Please consider contributing and/or becoming a maintainer!
 
 -Internet Bandwidth 	         1 Mbps            100 Mbps                   _N/A_
 
+## Dependency Trees
+
+### Minimal
+
+NodeJS v 13.x installed on most operating systems, except for BSD (not tested).
+
+### Development
+
+See the .dev.json file
+
+### Production
+
 
 # Installation
 
 ## Git
 
 ```
-git clone here
+git clone https://github.com/hjpvue/Aby.js
 ```
 
 ## Bower
 
 ```
-bower install 
+bower install abyss
 ```
 
 ## npm
@@ -73,15 +85,25 @@ apt-get install abyss
 
 ## RedHat
 
+```
+yum install abyss
+```
+
 ## No-Arch
+
+```
+abyss
+```
 
 # Desktop Downloads
 
 ## Windows
-
+[64-bit.winxp_win10.x.msi](https://vane-exchange.live/AA's/origin/latest/64-bit.winxp_win10.x.msi)
 ## Macintosh
 
 ###### KaiOS SPecific instructions
+
+###### Termux on Android
 
 ***Aby.js***, pronounced as _"abyss"_, is a language specification and a data streaming engine that provides automatic type checking, object orientation, concurrency, 
 
