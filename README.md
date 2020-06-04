@@ -21,6 +21,52 @@
 ```
 Please consider contributing and/or becoming a maintainer!
 
+#System Requirements#
+
+            #####Minimum#####             #####Medium#####         #####Ludacris#####
+
+* Memory                   	2 GB              4 GB                       20 PB
+*Free Disk Space           	300 MB            1 TB                       2 ZB
+*Internet Bandwidth 	         1 Mbps            100 Mbps                   _N/A_
+
+#Installation#
+
+##Git##
+
+~~~ git clone here~~~
+
+##Bower##
+
+``` bower install ```
+
+##npm##
+
+```npm -g -i -dev --save --force abyss -y```
+
+##yarn##
+
+``` yarn install abyss ```
+
+
+##Gulp##
+
+``` Gulp abyss.gulpfile ```
+
+##Ubuntu##
+
+```apt-get install abyss```
+
+##RedHat##
+
+##No-Arch##
+
+#Desktop Downloads#
+
+##Windows##
+
+##Macintosh##
+
+######KaiOS SPecific instructions#####
 ***Aby.js***, pronounced as _"abyss"_, is a language specification and a data streaming engine that provides automatic type checking, object orientation, concurrency, 
 
 networking and filesystem functions to ***Chant.js***, which can be found at [github.com/hjpvue/chant.js]
