@@ -1,4 +1,4 @@
-```
+#####
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
@@ -18,55 +18,71 @@
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
 |~|____|~||~|____|~||~|____|~||~|____|~|///|~|____|~||~|____|~||~|____|~||~|____|~|
-```
+
 Please consider contributing and/or becoming a maintainer!
 
-#System Requirements#
+#System Requirements 
 
-            #####Minimum#####             #####Medium#####         #####Ludacris#####
+            #####Minimum              #####Medium          #####Ludacris 
 
 * Memory                   	2 GB              4 GB                       20 PB
+
 *Free Disk Space           	300 MB            1 TB                       2 ZB
+
 *Internet Bandwidth 	         1 Mbps            100 Mbps                   _N/A_
 
-#Installation#
 
-##Git##
+#Installation
 
-~~~ git clone here~~~
+##Git
 
-##Bower##
+```
+git clone here
+```
 
-``` bower install ```
+##Bower
 
-##npm##
+```
+bower install 
+```
 
-```npm -g -i -dev --save --force abyss -y```
+##npm
 
-##yarn##
+```
+npm -g -i -dev --save --force abyss -y
+```
 
-``` yarn install abyss ```
+##yarn
+
+``` 
+yarn install abyss 
+```
 
 
-##Gulp##
+##Gulp
 
-``` Gulp abyss.gulpfile ```
+```
+Gulp abyss.gulpfile 
+```
 
-##Ubuntu##
+##Ubuntu
 
-```apt-get install abyss```
+```
+apt-get install abyss
+```
 
-##RedHat##
+##RedHat
 
-##No-Arch##
+##No-Arch
 
-#Desktop Downloads#
+#Desktop Downloads
 
-##Windows##
+##Windows
 
-##Macintosh##
+##Macintosh
 
-######KaiOS SPecific instructions#####
+######KaiOS SPecific instructions
+
 ***Aby.js***, pronounced as _"abyss"_, is a language specification and a data streaming engine that provides automatic type checking, object orientation, concurrency, 
 
 networking and filesystem functions to ***Chant.js***, which can be found at [github.com/hjpvue/chant.js]
